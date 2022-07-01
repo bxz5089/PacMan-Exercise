@@ -1,4 +1,4 @@
-# PacMan-Factory-Exercise
+# PacMan-Exercise
 
 PacMan is moved from one side of the screen to the other using HTML and JavaScript code; setTimeout and setInterval etc.
 
