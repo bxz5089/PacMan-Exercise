@@ -27,9 +27,7 @@ PacMan is moved from one side of the screen to the other using HTML and JavaScri
 ## Installation
 
 - First, use git clone in the terminal to download the project
-- Then open the project in VS Code and enter the terminal by right clicking the package.json
-- Within the terminal, use npm install install to install the all packages
-- Open server in terminal by using npm start
+- Then open the project in VS Code and right click the index.html to open in browser
 
 ---
 
